@@ -4,7 +4,7 @@
 
 * O foco do projeto está em apresentar e entender técnicas utilizadas para redução de dimensionalidade em datasets com muitas features.
 
-* O melhor modelo encontrado teve uma taxa de acerto de 97.08%, com uma redução de 35 para 15 exames necessários para a classificação do tipo de câncer.
+* O melhor modelo encontrado teve uma taxa de acerto de 97.08%, com uma redução de 33 para 15 exames necessários para a classificação do tipo de câncer.
   * Foram utilizados o modelo Randon Forest e RFECV para seleção e redução das features.
   
 ### Observações
